@@ -19,7 +19,7 @@ public class RestartButton : MonoBehaviour
     public void restartScene()
     {
        
-          SceneManager.LoadScene("GalaxyShooterScene1");
+          SceneManager.LoadScene("VoidShooter");
 
     }
 }
