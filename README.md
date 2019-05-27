@@ -2,14 +2,18 @@
 Galaxy Shooter by Piotr Arcisz.
 
 26.05.2019
-################################################################ Functionalities list ################################################################
+################################################################ Functionalities list 
+
 
 
 -Endless background map
+
 -Camera following player
+
 -Ship destroyed on collision with an asteroid
-	-UI text appears on lose
-	-Restart button appears
+
+-UI text appears on lose
+-Restart button appears
 -Moving ship up with W key and rotating it with A, D keys
 -Bullets destroyed after 3 seconds after getting shooted or with collision with an asteroid
 -Destroying asteroids with bullets increases the score
