@@ -1,0 +1,25 @@
+# VoidShooter
+Galaxy Shooter by Piotr Arcisz.
+
+26.05.2019
+################################################################ Functionalities list ################################################################
+
+
+-Endless background map
+-Camera following player
+-Ship destroyed on collision with an asteroid
+	-UI text appears on lose
+	-Restart button appears
+-Moving ship up with W key and rotating it with A, D keys
+-Bullets destroyed after 3 seconds after getting shooted or with collision with an asteroid
+-Destroying asteroids with bullets increases the score
+-Asteroids are destroyed after collision with other asteroids or bullets
+-Asteroids are respawned 1.5 second after being destroyed
+-Asteroids are respawned immediately after getting destroyed
+-Asteroids are respawned on a narrow and long space
+-2008 Asteroids are respawned at game start
+-All asteroids have random speed at X axis
+-Everything is simulated in every stage of game
+
+
+
